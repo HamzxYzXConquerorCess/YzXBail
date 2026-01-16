@@ -19,7 +19,7 @@ const {
 ```
 
 ```javascript
-await Xata.relayMessage(m.chat, {
+await HamzxYzX.relayMessage(m.chat, {
   productMessage {
     title: "HamzxYzX",
     description: "SixSeven Core",
