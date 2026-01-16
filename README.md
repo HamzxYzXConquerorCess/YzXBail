@@ -1,6 +1,6 @@
 # Modified Whatsapp-API
 <p align='center'>
-  <img src="https://files.catbox.moe/rkmw5t.png" width="350">
+  <img src="https://files.catbox.moe/5ayrc2.jpg" width="350">
 </p>
 
 --- 
@@ -8,7 +8,7 @@
 ## Usage
 ```json
 "depencies": {
-  "@whiskeysockets/baileys": "github: YzXBail/Hambail"
+  "@whiskeysockets/baileys": "github: HamzxYzXConquerorCess/YzXBail"
 }
 ```
 ## Import
@@ -21,19 +21,19 @@ const {
 ```javascript
 await Xata.relayMessage(m.chat, {
   productMessage {
-    title: "Xatanical",
-    description: "Tredict Invictus",
-    thumbnail: { url: "./XataThumb" },
-    url: "https://t.me/xatanicvxii",
+    title: "HamzxYzX",
+    description: "SixSeven Core",
+    thumbnail: { url: "./SixSevenThumb" },
+    url: "https://t.me/Hamzvcx",
     body: "Buy Access",
     footer: "Footer",
     buttons: [
       {
         name: "cta_url",
-        buttonParamsJson: "{\"display_text\":\"Xata.index\",\"url\":\"https://t.me/xatanicvxii\"}"
+        buttonParamsJson: "{\"display_text\":\"HamzxYzX.index\",\"url\":\"https://t.me/Hamzvcx\"}"
       }
     ],
-    priceAmount1000: 120.000,
+    priceAmount1000: 40.000,
     currencyCode: "IDR"
   }
 })
